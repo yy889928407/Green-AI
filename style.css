@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    margin: 1;
+    padding: 1;
     background-color: #f4f9f4;
     color: #333;
 }
 
 header {
-    background-color: #2e7d32;
+    background-color: #32b926;
     color: white;
     text-align: center;
     padding: 20px;
@@ -28,7 +28,7 @@ ul {
 }
 
 ul li {
-    background: #e8f5e9;
+    background: #639967;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
