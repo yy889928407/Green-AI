@@ -1,21 +1,23 @@
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
-    margin: 1;
-    padding: 1;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: #f4f9f4;
     color: #333;
 }
 
 header {
-    background-color: #0f5509;
-    color: rgb(124, 172, 12);
+    background: linear-gradient(135deg, #1b5e20, #4caf50);
+    color: white;
     text-align: center;
-    padding: 20px;
+    padding: 40px 20px;
 }
 
 section {
+    background: white;
     padding: 20px;
-    margin: 10px;
+    margin: 15px;
+    border-radius: 10px;
 }
 
 h1, h2 {
@@ -23,12 +25,11 @@ h1, h2 {
 }
 
 ul {
-    list-style-type: none;
     padding: 0;
 }
 
 ul li {
-    background: #639967;
+    background: #e8f5e9;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
